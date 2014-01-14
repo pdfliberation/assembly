@@ -1,4 +1,4 @@
-wish-list
+assembly
 =========
 
-A wish list for this organization, open an Issue to discuss what we can add.
+Where we gather to discuss Issues. Open an Issue to discuss anything related to the [PDF Liberation](https://github.com/pdfliberation) efforts.
